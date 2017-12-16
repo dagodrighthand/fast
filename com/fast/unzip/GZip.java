@@ -34,6 +34,7 @@ import org.apache.commons.compress.archivers.tar.TarArchiveEntry;
  * update by: gdp
  * update date:20150818
  * version:1.0
+ * feature
  * 
  */
 public class GZip implements Runnable ,Cloneable{
